@@ -28,7 +28,7 @@ Anyone who:
 * Note that this is just to weed out people who join and don't work. If you've put in effort, you are in.
 In exceptional circumstances, we may allow people to join late.
 
-In case of any doubts, pm Dhruv Patidar(+91-8347971588) or Aditya Jain(+91-9306490043) on Whatsapp.
+In case of any doubts, pm Dhruv Patidar(+91-83479 71588) or Aditya Jain(+91-93064 90043) on Whatsapp.
 Thank you for considering our project!
 
 ~Dhruv Patidar, Aditya Jain and the rest of BITSKrieg.
