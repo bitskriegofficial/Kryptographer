@@ -1,5 +1,5 @@
 # Kryptographer
-A Python swiss army knife for cracking classical cryptography.
+A Python swiss army knife for cracking classical cryptography. We will break the top-secret.
 
 ## The Aim
 We take all existing ciphers and implement scripts to crack each of them. Eventually, this project aims to evolve further by accommodating advanced features such as brute-force attacks and dictionary attacks.
