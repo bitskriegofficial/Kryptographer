@@ -35,7 +35,7 @@ Anyone who:
 * In these 2 weeks, we will select people to contribute to the project and start with it. Note that this is just to weed out people who join and don't work. If you've put in effort, you are in.
 
 ### For Cryptography Pros
-We start working right away after an assignment. If you don't shine in the assignment, we shall put you with the Cryptography Explorers.
+* We start working right away after an assignment. If you don't shine in the assignment, we shall put you with the Cryptography Explorers.
 
 In exceptional circumstances, we may allow people to join late.
 
